@@ -14,6 +14,7 @@ and total amount.
 
 *clothing categories generate highest sales in Quantity : 894
 *Electronics is generate higest revenue : 156905.0
+*average order value 456.0
 *most customer fall in Age 25-35 
 *customers minimum age 18 and maximum age 64 
 
